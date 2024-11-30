@@ -59,5 +59,5 @@ Lifecycle ของโทรศัพท์มือถือ
 สิ้นสุด: โทรศัพท์เสียหรือถูกแทนที่ด้วยเครื่องใหม่
 
 ลิงค์เพื่อน
-URL: [คลิกที่นี่เพื่อดู Lifecycle](https://kasidit1647.github.io/6530250328-github.io/lifecycle)
+URL: [คลิกเพื่อดูงานของเพื่อน](https://kasidit1647.github.io/6530250328-github.io/lifecycle)
 
