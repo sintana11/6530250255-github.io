@@ -2,7 +2,4 @@
   
 - ชื่อเล่น บรีส
 
-- Email Sintana.s@ku.th
-
-
     ![Alt text](Images/IMG_1496.jpeg)
